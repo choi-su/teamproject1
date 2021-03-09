@@ -96,12 +96,9 @@ $(document).ready(function($){
                 //     })
                 // }
                 
-            }     
-
-        });
+            
+        })
     })(jQuery)
-    
-
 });
 
 
