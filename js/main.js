@@ -96,8 +96,8 @@ $(document).ready(function($){
                 //     })
                 // }
                 
-            
-        })
+        
+        });
     })(jQuery)
 });
 
